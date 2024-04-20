@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Paritapale
-- 👀 I’m interested in trekking and exploring new things and learnings.
-- 🌱 I’m currently learning Data Science ML.
+- 👋 Hi, I’m @Swapnaja
+- 👀 I’m interested in cooking and exploring new things and learnings.
+- 🌱 I’m currently learning Data Science
 
 # Lead-Scoring-Case-Study-Upgrad
 Problem Statement
